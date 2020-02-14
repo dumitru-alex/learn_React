@@ -1,8 +1,13 @@
 # Learn React
+
 ## Home for learning React.
-See individual folders for specific projects.
+
+See individual repositories for specific projects.
+
+- [Monsters Rolodex](https://github.com/dumitru-alex/monsters-rolodex)
 
 # Resources:
+
 - [React Docs](https://reactjs.org/docs/create-a-new-react-app.html)
 - [React CodeSandbox](https://codesandbox.io/s/new)
 - [Create React App Docs](https://create-react-app.dev/docs/getting-started/)
